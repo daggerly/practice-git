@@ -1,10 +1,10 @@
 ## API目录
-* [登录认证](docs/api/Authenticate.md)
-* [媒体管理](docs/api/MediaManage.md)
-* [任务管理](docs/api/Job.md)
-* [通道管理](docs/api/Pipeline.md)
-* [模板管理](docs/api/Preset.md)
-* [媒体库管理](docs/api/Storage.md)
+* [登录认证](Authenticate.md)
+* [媒体管理](MediaManage.md)
+* [任务管理](Job.md)
+* [通道管理](Pipeline.md)
+* [模板管理](Preset.md)
+* [媒体库管理](Storage.md)
 
 ## 公共错误码
 | Code | Message | 语义 |
