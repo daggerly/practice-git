@@ -1,1 +1,1 @@
-a
+[公共](Authenticate.md##公共错误码)
